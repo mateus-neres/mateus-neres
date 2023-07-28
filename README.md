@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mateus-neres
-- 👀 I’m interested in Data science, Data analytics and Software engneer
+- 👀 I’m interested in Data science, Data analytics and Software engneering
 - 🌱 I’m currently learning Python and javascript
 - 💞️ I’m looking to collaborate on Data analytics projects and Software development
 - 📫 How to reach me mateusneres03@gmail.com
