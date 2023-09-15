@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mateus-neres
-- 👀 I’m interested in Data science, Data analytics and Software engneering
-- 🌱 I’m currently learning Python and javascript
+## Olá, sou Mateus Neres
+- 👀 I’m interested in Data science, Data analytics
+- 🌱 I’m currently learning Python and java
 - 💞️ I’m looking to collaborate on Data analytics projects and Software development
 - 📫 How to reach me mateusneres03@gmail.com
 
@@ -8,15 +8,13 @@
 mateus-neres/mateus-neres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## Olá, sou Mateus Neres
- <div>
-  <a href="https://github.com/mateus-neres">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateus-neres&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-neres&layout=compact&langs_count=16&theme=dracula"/>
-<div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Mateus-Csharp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  
+  <img align="center" alt="Mateus-Csharp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Mateus-Csharp" height="30" width="40"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+  <img align="center" alt="Mateus-Csharp" height="30" width="40"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
   ##
  
   <div>
