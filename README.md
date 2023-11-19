@@ -14,7 +14,8 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Mateus-Csharp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Mateus-Csharp" height="30" width="40"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
   <img align="center" alt="Mateus-Csharp" height="30" width="40"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-
+  <img align="center" alt="Mateus-Csharp" height="30" width="40"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Mateus-Csharp" height="30" width="40"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
   ##
  
   <div>
