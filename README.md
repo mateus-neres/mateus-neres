@@ -1,8 +1,12 @@
 ## Olá, sou Mateus Neres
-- 👀 I’m interested in Data science, Data analytics
-- 🌱 I’m currently learning Python and java
-- 💞️ I’m looking to collaborate on Data analytics projects and Software development
-- 📫 How to reach me mateusneres03@gmail.com
+- 👋 Olá! Sou um entusiasta em Análise de Dados, apaixonado por transformar dados em insights valiosos. Atualmente, estou aprimorando minhas habilidades em Python, pandas, SQL e ferramentas de visualização como Matplotlib e Plotly. Busco constantemente explorar novas formas de analisar, interpretar e visualizar dados.
+
+💡 Estou focado em iniciar minha carreira na área de Data Analytics, com projetos que envolvem limpeza de dados, análise exploratória, dashboards interativos e modelagem preditiva.
+
+📊 Meu objetivo é contribuir com soluções que impactem positivamente as decisões empresariais, utilizando a capacidade analítica para identificar padrões e tendências.
+
+🚀 Vamos conectar e trocar experiências sobre o incrível mundo dos dados!
+- 📫 Como chegar até mim mateusneres03@gmail.com ou mateus.neres03@outlook.com
 
 <!---
 mateus-neres/mateus-neres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
