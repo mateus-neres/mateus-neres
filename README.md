@@ -5,7 +5,7 @@
 
 - 📊 Meu objetivo é contribuir com soluções que impactem positivamente as decisões empresariais, utilizando a capacidade analítica para identificar padrões e tendências.
 
-- 📫 Como chegar até mim mateusneres03@gmail.com ou mateus.neres03@outlook.com
+- 📫 Como chegar até mim mateusneres03@gmail.com ou mateusneres03@outlook.com
 
 - 🚀 Vamos conectar e trocar experiências sobre o incrível mundo dos dados!
 
